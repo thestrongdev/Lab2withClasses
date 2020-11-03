@@ -1,0 +1,13 @@
+C:\Users\goods\source\repos\OOPExercises\bin\Debug\netcoreapp3.1\OOPExercises.exe
+C:\Users\goods\source\repos\OOPExercises\bin\Debug\netcoreapp3.1\OOPExercises.deps.json
+C:\Users\goods\source\repos\OOPExercises\bin\Debug\netcoreapp3.1\OOPExercises.runtimeconfig.json
+C:\Users\goods\source\repos\OOPExercises\bin\Debug\netcoreapp3.1\OOPExercises.runtimeconfig.dev.json
+C:\Users\goods\source\repos\OOPExercises\bin\Debug\netcoreapp3.1\OOPExercises.dll
+C:\Users\goods\source\repos\OOPExercises\bin\Debug\netcoreapp3.1\OOPExercises.pdb
+C:\Users\goods\source\repos\OOPExercises\obj\Debug\netcoreapp3.1\OOPExercises.csprojAssemblyReference.cache
+C:\Users\goods\source\repos\OOPExercises\obj\Debug\netcoreapp3.1\OOPExercises.AssemblyInfoInputs.cache
+C:\Users\goods\source\repos\OOPExercises\obj\Debug\netcoreapp3.1\OOPExercises.AssemblyInfo.cs
+C:\Users\goods\source\repos\OOPExercises\obj\Debug\netcoreapp3.1\OOPExercises.csproj.CoreCompileInputs.cache
+C:\Users\goods\source\repos\OOPExercises\obj\Debug\netcoreapp3.1\OOPExercises.dll
+C:\Users\goods\source\repos\OOPExercises\obj\Debug\netcoreapp3.1\OOPExercises.pdb
+C:\Users\goods\source\repos\OOPExercises\obj\Debug\netcoreapp3.1\OOPExercises.genruntimeconfig.cache
